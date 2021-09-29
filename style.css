@@ -1,0 +1,40 @@
+body{
+  text-align:center;
+  background: rgb(160,201,142);
+background: linear-gradient(90deg, rgba(160,201,142,1) 8%, rgba(19,189,190,1) 38%, rgba(0,212,255,1) 100%);
+  background-repeat:no-repeat;
+}
+h1{
+  text-shadow:2px 2px #F8BBDO;
+  font-size:40px;
+  font-family: ZCOOL KuaiLe;
+    
+}
+.about{
+  padding:20px;
+  font-size:20px;
+  text-align:center;
+}
+#line{
+  background-color:black;
+    width:80px;
+    height:5px;
+    margin:50px auto;
+
+}
+img{
+  border-radius:50%;
+  width:400px;
+}
+.menu{
+    list-style: none;
+    font-family:cursive;
+    float: right;
+    top: 10px;
+    right:30px;
+    cursor: pointer;
+    color: black;
+}
+.link:hover{
+transform: scale(1.3);
+}
